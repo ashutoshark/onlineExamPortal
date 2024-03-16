@@ -1,0 +1,9 @@
+.example-header-image {
+    background-image: url("../../../../assets/logo.png.png");
+    background-size: cover;
+  }
+  .max-size {
+    max-width: 200%;
+    max-height: auto;
+  }
+  
